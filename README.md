@@ -11,3 +11,4 @@ ReshamMSethi/ReshamMSethi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->The overlap period in the database ar the contemporary scores by default
 There may be artificial changes between tha year and the year before that do not reflect real world change in the political system in the history
+To prevent Future
